@@ -2,7 +2,7 @@
 Para salários superiores a R$1250,00, calcule um aumento de 10%.
 Para os inferiores ou iguais, o aumento é de 15%'''
 
-print('**' * 20, 'Aumento de salário' , '**' * 20)
+print('**' * 20, 'Aumento de salário', '**' * 20)
 
 salarioFuncionario = float(input('Digite o salário do funcionário: '))
 
