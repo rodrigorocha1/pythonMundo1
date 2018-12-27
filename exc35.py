@@ -1,4 +1,5 @@
-'''Exercício Python 035: Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.'''
+'''Exercício Python 035: Desenvolva um programa que leia o
+comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.'''
 
 l1 = float(input('Digite o comprimento da reta em cm: '))
 l2 = float(input('Digite o comprimento da reta em cm: '))

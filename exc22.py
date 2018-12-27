@@ -4,7 +4,6 @@ Exercício Python 022: Crie um programa que leia o nome completo de uma pessoa e
 - Quantas letras ao todo (sem considerar espaços).
 - Quantas letras tem o primeiro nome.
 '''
-import string
 
 nome = (input('Digite o nome completo: ')).strip()
 

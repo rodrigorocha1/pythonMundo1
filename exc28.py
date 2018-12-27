@@ -11,6 +11,7 @@ palpiteCPU = random.randint(0, 5)
 palpiteJogador = int(input("Digite um número de 0 a 5: "))
 print('Processando....')
 time.sleep(2)
+
 if palpiteCPU > palpiteJogador:
     print('O computador ganhor')
 elif palpiteCPU < palpiteJogador:
